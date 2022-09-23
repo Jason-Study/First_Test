@@ -7,6 +7,7 @@ int factor(n){
 	}
 	return result;
 }
+
 //阶乘求和
 int main(){
 	int sum=0;
@@ -20,4 +21,3 @@ int main(){
 	system("pause");
 	return 0;
 }
-
